@@ -1,0 +1,46 @@
+/*
+Classic Taxi Style Sheet
+Seth Wooten
+September 22 2015
+*/
+
+
+/* body */
+body{
+    background-color: white;
+    font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+/* links */
+a{
+  color:orange;
+  font-size:1.5em;
+  text-decoration:none;
+}
+/* Heading Styles */
+h1{
+  background-color: orange;
+  color:black;
+  font-size:2.5em;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  word-spacing:.5em;
+  text-align:center;
+}
+h2{
+  background-color:chocolate;
+  color:white;
+}
+/* paragraph */
+p{
+  color:saddlebrown;
+  text-indent:3em;
+  line-height:1.5em;
+}
+
+/* footer*/
+footer{
+  color:saddlebrown;
+  background-color:palegoldenrod;
+  font-size:.7em;
+  text-align:center;
+}
